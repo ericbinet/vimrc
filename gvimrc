@@ -4,7 +4,7 @@ if has("gui_running")
     elseif has("gui_macvim")
         set guifont=Menlo\ Regular:h10
     elseif has("gui_win32")
-        set guifont=Consolas:h9
+        set guifont=Consolas:h12
         set dir=d:/temp/vim/
     endif
 
